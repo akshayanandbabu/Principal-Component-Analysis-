@@ -1,5 +1,4 @@
-# Baseline-DNN-tf-model
-Kaggle Challenge- Predicting House Prices
+# MLP binary classification with Principal Component Analysis
 
-This is a simple tensorflow implementation of a deep neural network used to predict House Prices.
-Kindly look through the code to understand better
+
+This project handles variance captured in components to train features for a binary classification in a data set that has more predictor variables than observations (n>m)
